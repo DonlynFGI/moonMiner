@@ -1,0 +1,21 @@
+.imgedit{
+  height:200px;
+  width:200px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  
+}
+
+.fixedtxt{
+  height: 100px;
+  width:100px;
+  text-align:center;
+  color: red;
+  display:flex;
+  flex-direction: row;
+}
+
+.fdex{
+  justify-content: space-around !important;
+}
