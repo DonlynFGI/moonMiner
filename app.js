@@ -110,3 +110,9 @@ function startinterval() {
 }
 
 update()
+
+console.log("the only thing I'm missing is making the prices change as you buy more. everything else that was required to pass has been implemented.")
+
+console.log("also, every time the resource collection interval triggers successfully it's gonna console log 'ts' to let you know. I thought about removing this, but it was great for troubleshooting so I left it in.")
+
+//it's a lot of weird code, but it's some degree of a masterpiece at the same rate. Don't mind the color problems, I'm hopefully gonna trick bootstrap to let me turn everything black so the moon at least looks right.
